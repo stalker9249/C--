@@ -2,6 +2,7 @@
 #include <stdio.h>
 int main()
 {
+	cout<<"Привет"<<endl;
 	const int n=10;
 	int array[n],i,summ=0;
 	printf("Enter array:\n");
